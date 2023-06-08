@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Cyndhell Anne Pilarca"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I attended at Dr. Arcadio Santos National High School, Yes I graduate. English class is more on word, sentences, paper work, communication and interaction to others. While Math is more on computation and numbers, measuring angles. I think the subject that I'm best with is Math when I'm in senior high school I take class ABM which is Accountancy, Business and Management and before I'm always part of the honor class.
 
      
 
